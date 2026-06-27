@@ -10,6 +10,6 @@ A simple Bash script that checks whether a website is reachable using the ping c
 
 ## How to Run
 
-chmod 600 website_checker.sh
+chmod 700 website_checker.sh
 
 ./website_checker.sh
